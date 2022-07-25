@@ -1,4 +1,4 @@
-# alist-heroku-postgresql
+
 
 
 ## Deploy alist to heroku
